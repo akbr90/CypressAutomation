@@ -1,8 +1,4 @@
 ///<reference types='cypress'/>
 
-class MyAccountPage{
-
-    
-
-}
+class MyAccountPage {}
 export default MyAccountPage

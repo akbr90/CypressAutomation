@@ -1,16 +1,10 @@
 ///<reference types='Cypress'/>
 
-class GlobalPage{
-
-    visitApplication(){
+class GlobalPage {
+    visitApplication() {
         //cy.visit("https://admin-demo.nopcommerce.com/")
-        cy.visit("https://www.demoblaze.com/")
+        cy.visit('https://www.demoblaze.com/')
     }
-
-
-
-
-
 }
 
 export default GlobalPage
